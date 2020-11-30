@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Jusqu'ici tout va bien
 Use the left arrow to go back!
